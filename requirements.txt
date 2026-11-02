@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+numba
+openpyxl
+matplotlib
+pyarrow
+requests

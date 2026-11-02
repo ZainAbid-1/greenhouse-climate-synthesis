@@ -1,0 +1,13 @@
+a,b,var,rmse_diff,lo,hi,share_a_better
+Stanghellini (calibrated),Stanghellini (literature),T,-0.11861286904517732,-0.2097092363391644,-0.044819623405777206,1.0
+Stanghellini (calibrated),Stanghellini (literature),RH,-8.904703892061129,-9.605702924965678,-8.18499011672089,1.0
+Stanghellini (calibrated),Stanghellini (literature),VPD,-0.3698797263852169,-0.4232801748014922,-0.3148520415535512,1.0
+Stanghellini (literature),Priestley-Taylor (zero-data),T,0.052942269175629164,0.03544635137135685,0.07195081729116116,0.0
+Stanghellini (literature),Priestley-Taylor (zero-data),RH,-6.950411989078674,-8.17590688352185,-5.701443166647845,1.0
+Stanghellini (literature),Priestley-Taylor (zero-data),VPD,-0.06614627627954983,-0.09886995471048568,-0.03803799242875202,1.0
+Stanghellini (literature),FAO-56 PM (zero-data),T,-0.006472888169694935,-0.013862472428040663,0.00016299301988159084,0.968
+Stanghellini (literature),FAO-56 PM (zero-data),RH,-5.394935917353024,-6.230613338855009,-4.525210465835327,1.0
+Stanghellini (literature),FAO-56 PM (zero-data),VPD,-0.08549507286066094,-0.10274325745391764,-0.07091354213999795,1.0
+FAO-56 PM (zero-data),Priestley-Taylor (zero-data),T,0.0594151573453241,0.0391892758934401,0.08379648356444312,0.0
+FAO-56 PM (zero-data),Priestley-Taylor (zero-data),RH,-1.55547607172565,-1.991154325339206,-1.0947754630289652,1.0
+FAO-56 PM (zero-data),Priestley-Taylor (zero-data),VPD,0.019348796581111105,0.0032475418951248614,0.034158118071880066,0.006

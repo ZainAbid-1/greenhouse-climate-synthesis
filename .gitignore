@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+*.pkl
+case_study/outputs/
+validation/data/hoogstraten/

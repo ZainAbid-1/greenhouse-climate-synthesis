@@ -1,0 +1,289 @@
+config,var,hour,bias
+Stanghellini (calibrated),T,0,0.49154055574659333
+Stanghellini (calibrated),T,1,0.40659388429022414
+Stanghellini (calibrated),T,2,0.22872818319327257
+Stanghellini (calibrated),T,3,0.09665880753505067
+Stanghellini (calibrated),T,4,0.06130159947274242
+Stanghellini (calibrated),T,5,-0.015268960988720142
+Stanghellini (calibrated),T,6,1.5647232415135452
+Stanghellini (calibrated),T,7,1.4391067898508059
+Stanghellini (calibrated),T,8,1.312667865282392
+Stanghellini (calibrated),T,9,0.930643506001613
+Stanghellini (calibrated),T,10,0.632850255859335
+Stanghellini (calibrated),T,11,0.35665866691650083
+Stanghellini (calibrated),T,12,0.20867864241406842
+Stanghellini (calibrated),T,13,0.22718082744122936
+Stanghellini (calibrated),T,14,0.1929489291903589
+Stanghellini (calibrated),T,15,0.0964243055473116
+Stanghellini (calibrated),T,16,0.14385944038979528
+Stanghellini (calibrated),T,17,0.19216070056013088
+Stanghellini (calibrated),T,18,-1.2568510800187018
+Stanghellini (calibrated),T,19,-1.222751328638609
+Stanghellini (calibrated),T,20,-1.1598088505672155
+Stanghellini (calibrated),T,21,-1.0510347757614973
+Stanghellini (calibrated),T,22,-0.9540718121577487
+Stanghellini (calibrated),T,23,-0.9094503081464173
+Stanghellini (calibrated),RH,0,1.6012946436217543
+Stanghellini (calibrated),RH,1,3.995690775737746
+Stanghellini (calibrated),RH,2,4.2622291598145585
+Stanghellini (calibrated),RH,3,3.85498349854797
+Stanghellini (calibrated),RH,4,3.1643191553091397
+Stanghellini (calibrated),RH,5,2.2932843780690697
+Stanghellini (calibrated),RH,6,-3.66076288864087
+Stanghellini (calibrated),RH,7,-1.1279885532117948
+Stanghellini (calibrated),RH,8,-3.3872856390302624
+Stanghellini (calibrated),RH,9,-5.47383577535741
+Stanghellini (calibrated),RH,10,-5.981765032843381
+Stanghellini (calibrated),RH,11,-6.30496552376838
+Stanghellini (calibrated),RH,12,-6.8658155737197015
+Stanghellini (calibrated),RH,13,-6.942447349042515
+Stanghellini (calibrated),RH,14,-5.81861559895626
+Stanghellini (calibrated),RH,15,-5.186243447583516
+Stanghellini (calibrated),RH,16,-3.855537925878714
+Stanghellini (calibrated),RH,17,-1.86434244646082
+Stanghellini (calibrated),RH,18,-1.8632642988131916
+Stanghellini (calibrated),RH,19,-1.2333468015598072
+Stanghellini (calibrated),RH,20,-0.4806681290131218
+Stanghellini (calibrated),RH,21,1.728433028592099
+Stanghellini (calibrated),RH,22,4.864126000854422
+Stanghellini (calibrated),RH,23,5.699442206623905
+Stanghellini (calibrated),VPD,0,-0.021558934157412078
+Stanghellini (calibrated),VPD,1,-0.07312943204895216
+Stanghellini (calibrated),VPD,2,-0.08322863017829628
+Stanghellini (calibrated),VPD,3,-0.07725954741464124
+Stanghellini (calibrated),VPD,4,-0.0636243727986535
+Stanghellini (calibrated),VPD,5,-0.04715973973319394
+Stanghellini (calibrated),VPD,6,0.10303407990727335
+Stanghellini (calibrated),VPD,7,0.04473662670510626
+Stanghellini (calibrated),VPD,8,0.10588511987731922
+Stanghellini (calibrated),VPD,9,0.16106399974724073
+Stanghellini (calibrated),VPD,10,0.18291174663010926
+Stanghellini (calibrated),VPD,11,0.20362764361657198
+Stanghellini (calibrated),VPD,12,0.23337999413746216
+Stanghellini (calibrated),VPD,13,0.24965912294027276
+Stanghellini (calibrated),VPD,14,0.22075556878424543
+Stanghellini (calibrated),VPD,15,0.19552204163304
+Stanghellini (calibrated),VPD,16,0.14799183275688882
+Stanghellini (calibrated),VPD,17,0.07861387198615039
+Stanghellini (calibrated),VPD,18,0.0225992011257617
+Stanghellini (calibrated),VPD,19,0.006323393721892661
+Stanghellini (calibrated),VPD,20,-0.0025582016038314115
+Stanghellini (calibrated),VPD,21,-0.03935208150256241
+Stanghellini (calibrated),VPD,22,-0.09984789120956118
+Stanghellini (calibrated),VPD,23,-0.1134697951455345
+Stanghellini (literature),T,0,0.6187029989642963
+Stanghellini (literature),T,1,0.4884986382256094
+Stanghellini (literature),T,2,0.29245751255072516
+Stanghellini (literature),T,3,0.14328778480567003
+Stanghellini (literature),T,4,0.10009358095444966
+Stanghellini (literature),T,5,0.01982150261627957
+Stanghellini (literature),T,6,1.614819988657559
+Stanghellini (literature),T,7,1.4265836296457495
+Stanghellini (literature),T,8,1.1914476304065427
+Stanghellini (literature),T,9,0.8102364208330977
+Stanghellini (literature),T,10,0.6049336917954607
+Stanghellini (literature),T,11,0.42994140952634013
+Stanghellini (literature),T,12,0.398997612322964
+Stanghellini (literature),T,13,0.5339264233352965
+Stanghellini (literature),T,14,0.5456985980320346
+Stanghellini (literature),T,15,0.5880017669568958
+Stanghellini (literature),T,16,0.7267752137662375
+Stanghellini (literature),T,17,0.8059056489916953
+Stanghellini (literature),T,18,-0.6311894446787228
+Stanghellini (literature),T,19,-0.6944989851464319
+Stanghellini (literature),T,20,-0.8429594858436891
+Stanghellini (literature),T,21,-0.8641753006446095
+Stanghellini (literature),T,22,-0.7244366686127934
+Stanghellini (literature),T,23,-0.7271986019482642
+Stanghellini (literature),RH,0,-7.153598535107839
+Stanghellini (literature),RH,1,-5.5702071839828236
+Stanghellini (literature),RH,2,-4.872960979864277
+Stanghellini (literature),RH,3,-4.844629633996612
+Stanghellini (literature),RH,4,-5.2832460904507945
+Stanghellini (literature),RH,5,-6.045958685329088
+Stanghellini (literature),RH,6,-13.419046256340367
+Stanghellini (literature),RH,7,-11.168213820212184
+Stanghellini (literature),RH,8,-13.087670114184313
+Stanghellini (literature),RH,9,-16.908803899752524
+Stanghellini (literature),RH,10,-19.63024717608058
+Stanghellini (literature),RH,11,-21.9458032443935
+Stanghellini (literature),RH,12,-24.002938483405796
+Stanghellini (literature),RH,13,-25.11215253557457
+Stanghellini (literature),RH,14,-24.269323309783864
+Stanghellini (literature),RH,15,-23.76927356787722
+Stanghellini (literature),RH,16,-22.29307407308437
+Stanghellini (literature),RH,17,-19.431001137193473
+Stanghellini (literature),RH,18,-15.23827369057998
+Stanghellini (literature),RH,19,-12.179271513633177
+Stanghellini (literature),RH,20,-9.290539416118888
+Stanghellini (literature),RH,21,-5.964201833208218
+Stanghellini (literature),RH,22,-3.037610708342079
+Stanghellini (literature),RH,23,-1.9660971689167184
+Stanghellini (literature),VPD,0,0.1646535546714151
+Stanghellini (literature),VPD,1,0.12732182022297286
+Stanghellini (literature),VPD,2,0.10636008258102374
+Stanghellini (literature),VPD,3,0.10197399572865279
+Stanghellini (literature),VPD,4,0.10972479164323817
+Stanghellini (literature),VPD,5,0.12348186546365592
+Stanghellini (literature),VPD,6,0.32685231149189703
+Stanghellini (literature),VPD,7,0.2772785670339611
+Stanghellini (literature),VPD,8,0.3358254955644625
+Stanghellini (literature),VPD,9,0.44796712705158526
+Stanghellini (literature),VPD,10,0.5532599570190742
+Stanghellini (literature),VPD,11,0.6650951192431145
+Stanghellini (literature),VPD,12,0.7782899396764598
+Stanghellini (literature),VPD,13,0.8651518307000791
+Stanghellini (literature),VPD,14,0.8657960787600486
+Stanghellini (literature),VPD,15,0.8598783798882265
+Stanghellini (literature),VPD,16,0.8110733854635532
+Stanghellini (literature),VPD,17,0.7050250425710997
+Stanghellini (literature),VPD,18,0.48724403038512865
+Stanghellini (literature),VPD,19,0.3586411279512735
+Stanghellini (literature),VPD,20,0.23841062867488155
+Stanghellini (literature),VPD,21,0.13558872374169154
+Stanghellini (literature),VPD,22,0.06494135192132125
+Stanghellini (literature),VPD,23,0.03997770501523426
+Priestley-Taylor (zero-data),T,0,0.7478584748912137
+Priestley-Taylor (zero-data),T,1,0.6027003308399198
+Priestley-Taylor (zero-data),T,2,0.39184158033547717
+Priestley-Taylor (zero-data),T,3,0.23319123253878984
+Priestley-Taylor (zero-data),T,4,0.17954085647077744
+Priestley-Taylor (zero-data),T,5,0.09190089034819818
+Priestley-Taylor (zero-data),T,6,1.6952671385872935
+Priestley-Taylor (zero-data),T,7,1.44654944165145
+Priestley-Taylor (zero-data),T,8,1.174059607283631
+Priestley-Taylor (zero-data),T,9,0.7524398853717031
+Priestley-Taylor (zero-data),T,10,0.4731446646024926
+Priestley-Taylor (zero-data),T,11,0.21914004648905483
+Priestley-Taylor (zero-data),T,12,0.09144677072693166
+Priestley-Taylor (zero-data),T,13,0.16497946890315562
+Priestley-Taylor (zero-data),T,14,0.16963646493224885
+Priestley-Taylor (zero-data),T,15,0.2603764135064725
+Priestley-Taylor (zero-data),T,16,0.4407420600996922
+Priestley-Taylor (zero-data),T,17,0.5968523699388614
+Priestley-Taylor (zero-data),T,18,-0.8009185676894437
+Priestley-Taylor (zero-data),T,19,-0.7678873549992988
+Priestley-Taylor (zero-data),T,20,-0.8251139547913556
+Priestley-Taylor (zero-data),T,21,-0.754132438917062
+Priestley-Taylor (zero-data),T,22,-0.5423724763428767
+Priestley-Taylor (zero-data),T,23,-0.5483314280018703
+Priestley-Taylor (zero-data),RH,0,-20.033833695857275
+Priestley-Taylor (zero-data),RH,1,-22.279809739567746
+Priestley-Taylor (zero-data),RH,2,-23.833370704055437
+Priestley-Taylor (zero-data),RH,3,-25.237345775948704
+Priestley-Taylor (zero-data),RH,4,-26.620835053131984
+Priestley-Taylor (zero-data),RH,5,-28.050093494991806
+Priestley-Taylor (zero-data),RH,6,-35.159002323998514
+Priestley-Taylor (zero-data),RH,7,-32.935628051915344
+Priestley-Taylor (zero-data),RH,8,-27.768004024284547
+Priestley-Taylor (zero-data),RH,9,-24.779842168814508
+Priestley-Taylor (zero-data),RH,10,-22.38137648477283
+Priestley-Taylor (zero-data),RH,11,-20.683712783274693
+Priestley-Taylor (zero-data),RH,12,-20.342655191416743
+Priestley-Taylor (zero-data),RH,13,-20.57740326932993
+Priestley-Taylor (zero-data),RH,14,-19.38298785968231
+Priestley-Taylor (zero-data),RH,15,-19.13660557142962
+Priestley-Taylor (zero-data),RH,16,-17.97395693008013
+Priestley-Taylor (zero-data),RH,17,-15.446109397936098
+Priestley-Taylor (zero-data),RH,18,-12.563853829690556
+Priestley-Taylor (zero-data),RH,19,-10.778776672715866
+Priestley-Taylor (zero-data),RH,20,-9.834401901087663
+Priestley-Taylor (zero-data),RH,21,-9.441193657554942
+Priestley-Taylor (zero-data),RH,22,-10.111249319387387
+Priestley-Taylor (zero-data),RH,23,-12.17859748744871
+Priestley-Taylor (zero-data),VPD,0,0.4330967551321109
+Priestley-Taylor (zero-data),VPD,1,0.4728625417493989
+Priestley-Taylor (zero-data),VPD,2,0.4966422929856978
+Priestley-Taylor (zero-data),VPD,3,0.5205001641969931
+Priestley-Taylor (zero-data),VPD,4,0.5465636040528742
+Priestley-Taylor (zero-data),VPD,5,0.5732587105754416
+Priestley-Taylor (zero-data),VPD,6,0.8275338072893517
+Priestley-Taylor (zero-data),VPD,7,0.781118721077329
+Priestley-Taylor (zero-data),VPD,8,0.6724141590290783
+Priestley-Taylor (zero-data),VPD,9,0.6211250452342464
+Priestley-Taylor (zero-data),VPD,10,0.5985368011022286
+Priestley-Taylor (zero-data),VPD,11,0.6030764673294509
+Priestley-Taylor (zero-data),VPD,12,0.6437023247423959
+Priestley-Taylor (zero-data),VPD,13,0.6956472033080479
+Priestley-Taylor (zero-data),VPD,14,0.6842591612668552
+Priestley-Taylor (zero-data),VPD,15,0.6901666112820429
+Priestley-Taylor (zero-data),VPD,16,0.6584680527693366
+Priestley-Taylor (zero-data),VPD,17,0.5735884687939595
+Priestley-Taylor (zero-data),VPD,18,0.4107942265309571
+Priestley-Taylor (zero-data),VPD,19,0.32212151297621194
+Priestley-Taylor (zero-data),VPD,20,0.248526366147416
+Priestley-Taylor (zero-data),VPD,21,0.2062832060865533
+Priestley-Taylor (zero-data),VPD,22,0.20380651514561543
+Priestley-Taylor (zero-data),VPD,23,0.23326113597799927
+FAO-56 PM (zero-data),T,0,0.7034374701065874
+FAO-56 PM (zero-data),T,1,0.5583351300188347
+FAO-56 PM (zero-data),T,2,0.35203901438575524
+FAO-56 PM (zero-data),T,3,0.19891274257068914
+FAO-56 PM (zero-data),T,4,0.1477566274997666
+FAO-56 PM (zero-data),T,5,0.06307938328237069
+FAO-56 PM (zero-data),T,6,1.671212033762487
+FAO-56 PM (zero-data),T,7,1.466411099423369
+FAO-56 PM (zero-data),T,8,1.2044444597675474
+FAO-56 PM (zero-data),T,9,0.8130891779205497
+FAO-56 PM (zero-data),T,10,0.6034963026203881
+FAO-56 PM (zero-data),T,11,0.4332649895837539
+FAO-56 PM (zero-data),T,12,0.3989222437297742
+FAO-56 PM (zero-data),T,13,0.5455881115501047
+FAO-56 PM (zero-data),T,14,0.5586541983547749
+FAO-56 PM (zero-data),T,15,0.6118783098218399
+FAO-56 PM (zero-data),T,16,0.7571212882531216
+FAO-56 PM (zero-data),T,17,0.838680879577791
+FAO-56 PM (zero-data),T,18,-0.5916325690691833
+FAO-56 PM (zero-data),T,19,-0.6496818803740022
+FAO-56 PM (zero-data),T,20,-0.7891287742167626
+FAO-56 PM (zero-data),T,21,-0.775891791310538
+FAO-56 PM (zero-data),T,22,-0.6050431094973348
+FAO-56 PM (zero-data),T,23,-0.6174721540408599
+FAO-56 PM (zero-data),RH,0,-17.03301158766791
+FAO-56 PM (zero-data),RH,1,-17.898262742014108
+FAO-56 PM (zero-data),RH,2,-18.426996306024662
+FAO-56 PM (zero-data),RH,3,-19.06486752799364
+FAO-56 PM (zero-data),RH,4,-19.84740889629099
+FAO-56 PM (zero-data),RH,5,-20.826014987923937
+FAO-56 PM (zero-data),RH,6,-28.156028899757544
+FAO-56 PM (zero-data),RH,7,-26.538639765315587
+FAO-56 PM (zero-data),RH,8,-24.78440369658951
+FAO-56 PM (zero-data),RH,9,-24.794603783429533
+FAO-56 PM (zero-data),RH,10,-24.560042842308384
+FAO-56 PM (zero-data),RH,11,-24.587879295132648
+FAO-56 PM (zero-data),RH,12,-25.285101811778716
+FAO-56 PM (zero-data),RH,13,-25.76510769770452
+FAO-56 PM (zero-data),RH,14,-24.668626770831896
+FAO-56 PM (zero-data),RH,15,-24.28440844698499
+FAO-56 PM (zero-data),RH,16,-22.940518268170226
+FAO-56 PM (zero-data),RH,17,-20.314545699477893
+FAO-56 PM (zero-data),RH,18,-15.802821398166797
+FAO-56 PM (zero-data),RH,19,-13.280492660612337
+FAO-56 PM (zero-data),RH,20,-11.58618853587278
+FAO-56 PM (zero-data),RH,21,-10.132486212159144
+FAO-56 PM (zero-data),RH,22,-9.546760169549733
+FAO-56 PM (zero-data),RH,23,-10.286760386578678
+FAO-56 PM (zero-data),VPD,0,0.36910963363534605
+FAO-56 PM (zero-data),VPD,1,0.38085309332051187
+FAO-56 PM (zero-data),VPD,2,0.38428879469894334
+FAO-56 PM (zero-data),VPD,3,0.3929852339384402
+FAO-56 PM (zero-data),VPD,4,0.4070840331602138
+FAO-56 PM (zero-data),VPD,5,0.424910203827807
+FAO-56 PM (zero-data),VPD,6,0.6658363126690586
+FAO-56 PM (zero-data),VPD,7,0.6345265297829641
+FAO-56 PM (zero-data),VPD,8,0.6088283341191826
+FAO-56 PM (zero-data),VPD,9,0.6325670222652463
+FAO-56 PM (zero-data),VPD,10,0.6696296899028259
+FAO-56 PM (zero-data),VPD,11,0.7293076448649816
+FAO-56 PM (zero-data),VPD,12,0.811301651902537
+FAO-56 PM (zero-data),VPD,13,0.8848384438647152
+FAO-56 PM (zero-data),VPD,14,0.8804329583605333
+FAO-56 PM (zero-data),VPD,15,0.8789805544684028
+FAO-56 PM (zero-data),VPD,16,0.8347403555395327
+FAO-56 PM (zero-data),VPD,17,0.7349607477665456
+FAO-56 PM (zero-data),VPD,18,0.5064894227966629
+FAO-56 PM (zero-data),VPD,19,0.38634189917589057
+FAO-56 PM (zero-data),VPD,20,0.2859567467229286
+FAO-56 PM (zero-data),VPD,21,0.21717863159571457
+FAO-56 PM (zero-data),VPD,22,0.18899995062270425
+FAO-56 PM (zero-data),VPD,23,0.1946790303602068
