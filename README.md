@@ -68,6 +68,15 @@ This writes `outputs/greenhouse_digital_twin_1min.csv` and `.parquet` (1,052,581
 
 The case-study dataset uses the Priestley-Taylor transpiration term (net-radiation fraction 1). The paper's independent-site results favour literature-parameterized Stanghellini for future case-study runs.
 
+### Case-study modelling details not listed in the paper
+
+- **Control strategy.** No control logic is specified for the case-study greenhouse, so a thermostat-style rule is assumed (`build_greenhouse_dataset.py`, CONFIG section):
+  - heater: full power at or below 16 °C, off at or above 20 °C, linear in between;
+  - exhaust fans: off at or below 26 °C, full power at or above 30 °C, linear in between;
+  - LED lighting: on from 06:00 to 22:00 local time.
+- **Solar downscaling amplitude.** The sinusoidal-physical method of Balog et al. (2023) calibrates its amplitude `A` against measured one-minute irradiance, which is not available for Islamabad. A stand-in based on the daily clearness index `kc` is used instead: `A = 0.08 (1 - kc)` on cloudy days (`kc < 0.65`) and `A = 0` on clear days (see `solar_downscale()`). The same rule is applied to direct and diffuse radiation.
+- **Spin-up.** Indoor states start at outdoor conditions. The first 24 h of the case-study dataset are kept but marked with `spin_up_flag = True`; drop them for steady-state analysis. (In the independent-site evaluation the first 24 h are discarded before scoring.)
+
 ## Data sources and licences
 
 - Open-Meteo Historical Weather API, https://open-meteo.com (CC BY 4.0).
